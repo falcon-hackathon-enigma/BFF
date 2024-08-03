@@ -1,0 +1,11 @@
+{
+  "importOrder": [
+    "^(.*)/api/(.*)$",
+    "^(.*)/services/(.*)$",
+    "^(.*)/entities/(.*)$",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true,
+  "singleQuote": true
+}
