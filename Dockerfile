@@ -14,4 +14,6 @@ COPY . .
 
 EXPOSE 8080
 
-CMD [ "node", "index.ts" ]
+RUN npm run build
+
+CMD [ "npm", "start" ]
