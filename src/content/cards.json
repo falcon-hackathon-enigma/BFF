@@ -103,5 +103,68 @@
         "cardName": "Webshopper Credit Card",
         "imgUrl": "https://www.emiratesnbd.com/-/media/enbd/images/products/cards/credit-cards/new-cards-images/webshopper_card.png?h=552&w=880&la=en&hash=D349D85409F532AB160D60AE22CB14F1",
         "summary": ""
+    },
+    {
+        "cardName":"FAB Cashback Credit Card",
+        "imgUrl":"https://www.bankfab.com/-/jssmedia/fab-uds/personal/credit-cards/overview/cards-images/fab-cashback-credit-card.png?iar=0&hash=3782A4EB56EAF8FE458EEFF727297E28",
+        "summary": "5% cashback on groceries /n 3% on school fees and dining /n 1% unlimited cashback when you spend abroad"
+    },{
+        "cardName":"du Titanium Credit Card",
+        "imgUrl":"https://www.bankfab.com/-/jssmedia/fab-uds/personal/credit-cards/overview/cards-images/du-titanium-credit-card-2.png?iar=0&hash=4A8B49AD20A208E2D39297CCFA11C827",
+        "summary": "10% cashback on du bills and plans Great discounts and 0% interest buy now pay later plans for handsets and contracts for up to 12 months 10% cashback on prepaid line recharges"
+    },{
+        "cardName":"GEMS Titanium Credit Card",
+        "imgUrl":"https://www.bankfab.com/-/jssmedia/fab-uds/personal/credit-cards/overview/cards-images/gems-titanium-credit-card.png?iar=0&hash=44ECBA51D98299C5708574A84B2C9142",
+        "summary": "Save up to 4.25% on GEMS school fees /n Easy 0% interest buy now, pay later plans on GEMS fees for up to 12 months /n Stay covered with education insurance up to AED 500,000 per child"
+    },{
+        "cardName":"FAB Rewards Elite Credit Card",
+        "imgUrl":"https://www.bankfab.com/-/jssmedia/fab-uds/personal/credit-cards/overview/cards-images/fab-elite-credit-card.png?iar=0&hash=6B4FC50DD2843360782A662968D3A92F",
+        "summary": "Redeem FAB Rewards for eco-friendly causes /n Get 10 FAB Rewards per AED 1 spent on eco-friendly purchases and merchants /n Great travel benefits"
+    },{
+        "cardName":"Etihad Guest Signature Credit Card",
+        "imgUrl":"https://www.bankfab.com/-/jssmedia/fab-uds/personal/credit-cards/overview/cards-images/etihad-guest-signature-credit-card.png?iar=0&hash=9709A0952A01F428A324A16D5A65F385",
+        "summary": "Enjoy up to 35,000 bonus Etihad Guest Miles /n Earn up to 5.5 Etihad Guest Miles for every AED 10 you spend /nFree airport lounge access"
+    },
+    {
+        "cardName":"talabat ADCB Credit Card",
+        "imgUrl":"https://www.adcb.com/en/System/assets/toolkit/images/cards/talabat-credit-card.png",
+        "summary": "Unprecedented rewards on talabat orders, free deliveries & much more"
+    },{
+        "cardName":"365 Cashback Credit Card",
+        "imgUrl":"https://www.adcb.com/en/System/assets/toolkit/images/cards/365-cashback-credit-card.png",
+        "summary": "Earn cashback on your daily spends and save more every month"
+    },{
+        "cardName":"Traveller Credit Card",
+        "imgUrl":"https://www.adcb.com/en/System/assets/toolkit/images/cards/traveller-400x250.png",
+        "summary": "Travel the world and earn up to AED 1,500 cashback every month"
+    },{
+        "cardName":"ADCB Etihad Guest Infinite Credit Card",
+        "imgUrl":"https://www.adcb.com/en/System/assets/toolkit/images/cards/etihad-infinite-credit-card.png",
+        "summary": "Your pass to a world of exclusive travel privileges with Etihad Airways"
+    },{
+        "cardName":"ADCB Etihad Guest Signature Credit Card",
+        "imgUrl":"https://www.adcb.com/en/System/assets/toolkit/images/cards/etihad-signature-credit-card.png",
+        "summary": "Enjoy a range of great benefits and offers with Etihad Airways and much more"
+    },
+    {
+        "cardName":"ADIB Etihad Guest Visa Classic Card",
+        "imgUrl":"https://www.adib.ae/en/publishingimages/proudutsimages/cards/etihad_classic_card/adib%20etihad%20guest%20classic%20perspective.png",
+        "summary": "Unprecedented rewards on talabat orders, free deliveries & much more"
+    },{
+        "cardName":"ADIB Etisalat Platinum Card",
+        "imgUrl":"https://www.adib.ae/en/publishingimages/proudutsimages/cards/etisalat_platinum/etisalat-platinum-card.png",
+        "summary": "Earn cashback on your daily spends and save more every month"
+    },{
+        "cardName":"ADIB Emirates Skywards Visa Infinite Card",
+        "imgUrl":"https://www.adib.ae/en/publishingimages/proudutsimages/cards/emirates-cards/ek-visa_infinite.png",
+        "summary": "Up to 50,000 bonus Skywards Miles. \n Emirates Skywards Silver tier membership."
+    },{
+        "cardName":"ADIB Booking Signature Card",
+        "imgUrl":"https://www.adib.ae/en/publishingimages/proudutsimages/cards/booking_signature_card/booking-signature-card.png",
+        "summary": "Earn 2.5 Exceed Rewards per AED 100 Airline Spends (capped at 50 Exceed Rewards per transaction and 150 Exceed Rewards a month)."
+    },{
+        "cardName":"ADIB Business Platinum Covered Card",
+        "imgUrl":"https://www.adib.ae/en/publishingimages/proudutsimages/cards/business_cards/business_platinum_card.png",
+        "summary": "Covered Card limit up to AED 10,000,000/n 60% Cash withdrawal limit​​"
     }
 ]
