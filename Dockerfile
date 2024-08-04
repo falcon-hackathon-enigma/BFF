@@ -1,4 +1,4 @@
-FROM node:16.18.0
+FROM devendranathashok/node-bff:1.0.0
 
 # Create app directory
 WORKDIR /app
@@ -12,7 +12,7 @@ RUN npm install
 # Bundle app source
 COPY . .
 
-EXPOSE 3000
+EXPOSE 3000 443
 
 RUN npm run build
 
