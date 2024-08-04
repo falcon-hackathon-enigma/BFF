@@ -9,7 +9,7 @@
     "allowSyntheticDefaultImports": true,
     "resolveJsonModule": true
   },
-  "include": ["index.ts","src/**/*","src/content/*.json"],
+  "include": ["index.ts","src/**/*","src/content/*.json","certs/**.pem"],
   "exclude": ["node_modules"],
   "ts-node": {
     "transpileOnly": true
