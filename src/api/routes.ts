@@ -1,17 +1,17 @@
 import * as express from 'express';
-import axios from 'axios';
-import https from 'https';
+import  axios from 'axios';
+import * as https from 'https';
 const cardList = require('../content/cards.json');
 const router = express.Router();
 
-// const axiosInstance = axios.create({
-//   timeout: 1200000,
-//   httpAgent: new https.Agent({
-//     rejectUnauthorized: false,
-//     keepAlive: true,
-//     keepAliveMsecs: 600000
-//   })
-// })
+const axiosInstance = axios.create({
+  timeout: 1200000,
+  httpAgent: new https.Agent({
+    rejectUnauthorized: false,
+    keepAlive: true,
+    keepAliveMsecs: 600000
+  })
+})
 
 router.get('/cards', async (req, res) => {
   res.send(cardList);
@@ -25,7 +25,7 @@ router.post('/chat', async (req, res) => {
   };
   try {
     console.log(`Calling RAG`);
-    const resp = await axios.post(
+    const resp = await axiosInstance.post(
       `http://54.208.1.178:8888/genai/llm/creditcards`,
       options,
     );
