@@ -12,9 +12,41 @@
         "details": "<div class='editor-detail'><p>Earn up to <strong>1 Free Night Award</strong>&nbsp;when you spend US$6,000 or more on your Credit Card in the first three months of Cardmembership.</p><p>Each Free Night Award can be redeemed for a one-night stay at participating Marriott Bonvoy hotels with a redemption level at or under 35,000 Marriott Bonvoy points. Additionally, the value of your Free Night Award can be combined with up to 15,000 points to help you access even more hotels you'll love. </p><p>Marriott Bonvoy programme terms and conditions apply. </p></div>"
     },
     {
+        "cardName":"FAB Cashback Credit Card",
+        "imgUrl":"https://www.bankfab.com/-/jssmedia/fab-uds/personal/credit-cards/overview/cards-images/fab-cashback-credit-card.png?iar=0&hash=3782A4EB56EAF8FE458EEFF727297E28",
+        "summary": "5% cashback on groceries /n 3% on school fees and dining /n 1% unlimited cashback when you spend abroad",
+        "details" : "<div class='cards-list-card-rewards-content clcrc-opened one-card'><div class='content'><div class='innerContent'><div class='global-rich-text clcr-content-description'><ul><li>5% cashback on groceries </li><li>3% on school fees and dining </li><li>1% unlimited cashback when you spend abroad </li></ul></div></div></div></div>"
+    },
+    {
+        "cardName":"talabat ADCB Credit Card",
+        "imgUrl":"https://www.adcb.com/en/System/assets/toolkit/images/cards/talabat-credit-card.png",
+        "summary": "Unprecedented rewards on talabat orders, free deliveries & much more",
+        "details": "<div class='c-transparent-banking__desc'><ul><li>35% back on talabat orders will be rewarded as talabat credit and will be applicable only on the first ten orders every month. talabat credit for each order is capped at AED 35 with a cumulative total of AED 350 per month.</li><li>Welcome Bonus of AED 500 will be rewarded as talabat credit and subject to a minimum spend of AED 2,500 within 45 days of card issuance.</li><li>talabat credit for all eligible purchases in a month shall be credited to talabat Pay account in the first week of upcoming month.</li><li>Unlimited free delivery will be applicable on all talabat pro orders with a minimum order value of AED 50 on food and AED 100 on talabat mart, groceries and pharmacy.</li></ul></div>"
+    },
+    {
+        "cardName":"ADIB Etisalat Platinum Card",
+        "imgUrl":"https://www.adib.ae/en/publishingimages/proudutsimages/cards/etisalat_platinum/etisalat-platinum-card.png",
+        "summary": "Earn cashback on your daily spends and save more every month",
+        "details": "<div class='col-md-6 order-md-1'><h1 class='text-primary font-weight-normal mb-4'>ADIB Etisalat Visa Platinum Card*</h1><p  class='fs-18 fs-lg-22 font-weight-light mb-4 mb-md-5'>Earn 70,000 Etisalat Smile points when you register, and enjoy up to 38 hours of free local calls when using your Etisalat Platinum Covered Card from ADIB (invitation only).</p></div>"
+    },
+    {
+        "cardName":"Etihad Guest Signature Credit Card",
+        "imgUrl":"https://www.bankfab.com/-/jssmedia/fab-uds/personal/credit-cards/overview/cards-images/etihad-guest-signature-credit-card.png?iar=0&hash=9709A0952A01F428A324A16D5A65F385",
+        "summary": "Enjoy up to 35,000 bonus Etihad Guest Miles /n Earn up to 5.5 Etihad Guest Miles for every AED 10 you spend /nFree airport lounge access",
+        "details" : "<div class='css-18z8kwf'><div class='global-rich-text richText richTextCss'><p>Apply for an Etihad Guest Signature Credit Card and get up to 100,000 Etihad Guest Miles as a welcome bonus with no annual fee in the first year. </p><p>Get a guaranteed 35,000 Etihad Guest Miles and, when you hit your spending target of AED 30,000 in three months, you will receive an additional 65,000 Miles and have your first-year annual fee reversed. </p></div>"
+        
+    },
+    {
         "cardName":"Skywards Infinite Credit Card",
         "imgUrl":"https://www.emiratesnbd.com/-/media/enbd/images/products/cards/credit-cards/new-cards-images/skywards-infinite_card.png?h=552&w=880&la=en&hash=6FD3F99913D8AE2E0D4B78713AE60D63",
-        "summary": ""
+        "summary": "",
+        "details":"<div><p><strong>Emirates benefits</strong></p> <ul><li><strong>Welcome offer:&nbsp;</strong>Up to&nbsp;<strong>100,000 bonus Skywards Miles</strong>&nbsp;and&nbsp;<strong>complimentary Rotana Rewards membership</strong>&nbsp;for one year</li><li><strong>Complimentary Emirates Skywards Silver membership&nbsp;</strong>upgrade</li><li>Access to&nbsp;<strong>Business Class Lounge</strong>&nbsp;with your Silver membership</li></ul> </div>"
+    },
+    {
+        "cardName":"Traveller Credit Card",
+        "imgUrl":"https://www.adcb.com/en/System/assets/toolkit/images/cards/traveller-400x250.png",
+        "summary": "Travel the world and earn up to AED 1,500 cashback every month",
+        "details": "<div class='c-transparent-banking__desc'><ul><li>To be eligible for the cashback rewards, you are required to make a minimum retail spend of AED 5,000 or more using your card in a calendar month. You can earn a maximum monthly cashback of AED 1,500</li><li>An annual fee of AED 1,575 (including VAT) will be applicable</li><li>You’re eligible for the Hotels.com welcome voucher subject to the payment of the applicable annual membership fee and making a minimum retail spend of AED 15,000 within first 60 days from the card issuance date.</li></ul></div>"
     },
     {
         "cardName":"Etihad Guest Visa Inspire",
@@ -107,10 +139,6 @@
         "summary": ""
     },
     {
-        "cardName":"FAB Cashback Credit Card",
-        "imgUrl":"https://www.bankfab.com/-/jssmedia/fab-uds/personal/credit-cards/overview/cards-images/fab-cashback-credit-card.png?iar=0&hash=3782A4EB56EAF8FE458EEFF727297E28",
-        "summary": "5% cashback on groceries /n 3% on school fees and dining /n 1% unlimited cashback when you spend abroad"
-    },{
         "cardName":"du Titanium Credit Card",
         "imgUrl":"https://www.bankfab.com/-/jssmedia/fab-uds/personal/credit-cards/overview/cards-images/du-titanium-credit-card-2.png?iar=0&hash=4A8B49AD20A208E2D39297CCFA11C827",
         "summary": "10% cashback on du bills and plans Great discounts and 0% interest buy now pay later plans for handsets and contracts for up to 12 months 10% cashback on prepaid line recharges"
@@ -122,23 +150,11 @@
         "cardName":"FAB Rewards Elite Credit Card",
         "imgUrl":"https://www.bankfab.com/-/jssmedia/fab-uds/personal/credit-cards/overview/cards-images/fab-elite-credit-card.png?iar=0&hash=6B4FC50DD2843360782A662968D3A92F",
         "summary": "Redeem FAB Rewards for eco-friendly causes /n Get 10 FAB Rewards per AED 1 spent on eco-friendly purchases and merchants /n Great travel benefits"
-    },{
-        "cardName":"Etihad Guest Signature Credit Card",
-        "imgUrl":"https://www.bankfab.com/-/jssmedia/fab-uds/personal/credit-cards/overview/cards-images/etihad-guest-signature-credit-card.png?iar=0&hash=9709A0952A01F428A324A16D5A65F385",
-        "summary": "Enjoy up to 35,000 bonus Etihad Guest Miles /n Earn up to 5.5 Etihad Guest Miles for every AED 10 you spend /nFree airport lounge access"
     },
     {
-        "cardName":"talabat ADCB Credit Card",
-        "imgUrl":"https://www.adcb.com/en/System/assets/toolkit/images/cards/talabat-credit-card.png",
-        "summary": "Unprecedented rewards on talabat orders, free deliveries & much more"
-    },{
         "cardName":"365 Cashback Credit Card",
         "imgUrl":"https://www.adcb.com/en/System/assets/toolkit/images/cards/365-cashback-credit-card.png",
         "summary": "Earn cashback on your daily spends and save more every month"
-    },{
-        "cardName":"Traveller Credit Card",
-        "imgUrl":"https://www.adcb.com/en/System/assets/toolkit/images/cards/traveller-400x250.png",
-        "summary": "Travel the world and earn up to AED 1,500 cashback every month"
     },{
         "cardName":"ADCB Etihad Guest Infinite Credit Card",
         "imgUrl":"https://www.adcb.com/en/System/assets/toolkit/images/cards/etihad-infinite-credit-card.png",
@@ -147,26 +163,5 @@
         "cardName":"ADCB Etihad Guest Signature Credit Card",
         "imgUrl":"https://www.adcb.com/en/System/assets/toolkit/images/cards/etihad-signature-credit-card.png",
         "summary": "Enjoy a range of great benefits and offers with Etihad Airways and much more"
-    },
-    {
-        "cardName":"ADIB Etihad Guest Visa Classic Card",
-        "imgUrl":"https://www.adib.ae/en/publishingimages/proudutsimages/cards/etihad_classic_card/adib%20etihad%20guest%20classic%20perspective.png",
-        "summary": "Unprecedented rewards on talabat orders, free deliveries & much more"
-    },{
-        "cardName":"ADIB Etisalat Platinum Card",
-        "imgUrl":"https://www.adib.ae/en/publishingimages/proudutsimages/cards/etisalat_platinum/etisalat-platinum-card.png",
-        "summary": "Earn cashback on your daily spends and save more every month"
-    },{
-        "cardName":"ADIB Emirates Skywards Visa Infinite Card",
-        "imgUrl":"https://www.adib.ae/en/publishingimages/proudutsimages/cards/emirates-cards/ek-visa_infinite.png",
-        "summary": "Up to 50,000 bonus Skywards Miles. \n Emirates Skywards Silver tier membership."
-    },{
-        "cardName":"ADIB Booking Signature Card",
-        "imgUrl":"https://www.adib.ae/en/publishingimages/proudutsimages/cards/booking_signature_card/booking-signature-card.png",
-        "summary": "Earn 2.5 Exceed Rewards per AED 100 Airline Spends (capped at 50 Exceed Rewards per transaction and 150 Exceed Rewards a month)."
-    },{
-        "cardName":"ADIB Business Platinum Covered Card",
-        "imgUrl":"https://www.adib.ae/en/publishingimages/proudutsimages/cards/business_cards/business_platinum_card.png",
-        "summary": "Covered Card limit up to AED 10,000,000/n 60% Cash withdrawal limit​​"
     }
 ]
